@@ -23,3 +23,7 @@ The function has to return a promise (usual for $http based methods in Angular) 
       t: new Date},
       ...
     ]
+
+## Example
+
+![](http://oi62.tinypic.com/hrlclh.jpg)
