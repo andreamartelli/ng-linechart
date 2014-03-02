@@ -7,7 +7,7 @@ You don't need to dig into code and don't even need to know D3.js, since the dir
 
 * Use the directive in an HTML view and change the parameter's values to set axes, labels, colors, size, etc.
 * Associate an Angular controller to the view
-* You just need to define a function for data retrieval in the controllers and put it into the *load-data-fn* parameter
+* You just need to define a function for data retrieval in this controller and put it into the *load-data-fn* parameter
 
 ## load-data-fn requirements
 
